@@ -242,7 +242,7 @@ public class Creator2 extends AbstractCreator {
 
 **通用类图：**
 
-<img src="C:\Users\魏慕伦\Desktop\LearningNotes\DesignPatterns\pic\建造者模式通用类图.PNG" style="zoom:50%;" />
+<img src=".\pic\建造者模式通用类图.PNG" style="zoom:50%;" />
 
 - Product产品类
 
